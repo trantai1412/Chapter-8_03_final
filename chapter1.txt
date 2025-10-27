@@ -3,3 +3,4 @@ akai
 git 
 rebug chapter1
 hoc fetch 
+hoc pull
