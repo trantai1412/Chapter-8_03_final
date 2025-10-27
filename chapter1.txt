@@ -4,3 +4,4 @@ git
 rebug chapter1
 hoc fetch 
 hoc pull
+hoc pull --rebase
